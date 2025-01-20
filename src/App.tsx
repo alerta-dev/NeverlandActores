@@ -21,7 +21,7 @@ const users = [
     description: "Actor de voz versátil con experiencia en videojuegos y documentales. Narrador apasionado.",
     social: {
       discord: "carlosmendoza#5678",
-      youtube: "https://www.youtube.com/@Blest999",
+      youtube: "@Blest999",
       tiktok: "@carlosvoiceactor"
     }
   },
