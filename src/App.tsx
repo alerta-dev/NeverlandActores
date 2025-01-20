@@ -87,7 +87,7 @@ function App() {
     <div className="min-h-screen bg-gradient-to-br from-indigo-500 via-purple-500 to-pink-500 py-16 px-4">
       <div className="max-w-6xl mx-auto">
         <h1 className="text-5xl font-bold text-white text-center mb-16">
-          Nuestros Artistas de Doblaje
+          Nuestro Equipo de Trabajo
         </h1>
         <div className="flex flex-col items-center gap-8">
           {users.map(user => (
