@@ -5,12 +5,12 @@ import { Disc as Discord, Youtube, MessageCircle } from 'lucide-react';
 const users = [
   {
     id: 1,
-    name: "Ana García",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400",
+    name: "Ōkami Dub",
+    image: "https://64.media.tumblr.com/285fa9cf0b2ea9801f1e8b9b3a78e9b3/b1bdbc95ae1b5b59-5e/s540x810/a6a4985939173aefdd6fcefb3d03d1ca2a36dd18.pnj",
     description: "Doblaje profesional con 5 años de experiencia. Especializada en voces juveniles y personajes animados.",
     social: {
       discord: "anagarcia#1234",
-      youtube: "AnaDoblajes",
+      youtube: "https://www.youtube.com/@okamidub118",
       tiktok: "@ana.doblajes"
     }
   },
