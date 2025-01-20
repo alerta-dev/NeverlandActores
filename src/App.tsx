@@ -16,12 +16,12 @@ const users = [
   },
   {
     id: 2,
-    name: "Carlos Mendoza",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+    name: "Blest",
+    image: "https://64.media.tumblr.com/8cfed5c35268dd094701cc6f0dfc850a/6ee9b10ccda0607b-e2/s1280x1920/3a07e435fbd67f60ddf45556208ed4effb20eec0.pnj",
     description: "Actor de voz versátil con experiencia en videojuegos y documentales. Narrador apasionado.",
     social: {
       discord: "carlosmendoza#5678",
-      youtube: "CarlosVoices",
+      youtube: "https://www.youtube.com/@Blest999",
       tiktok: "@carlosvoiceactor"
     }
   },
