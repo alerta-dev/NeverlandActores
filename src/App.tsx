@@ -10,7 +10,7 @@ const users = [
     description: "Doblaje profesional con 5 años de experiencia. Especializada en voces juveniles y personajes animados.",
     social: {
       discord: "anagarcia#1234",
-      youtube: "https://www.youtube.com/@okamidub118",
+      youtube: "@okamidub118",
       tiktok: "@ana.doblajes"
     }
   },
